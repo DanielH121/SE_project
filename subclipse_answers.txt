@@ -1,1 +1,19 @@
-asldkjasd;ljasdf;kj
+1)
+update
+work on your code
+synchronize
+mark as merged
+commit
+
+2)
+check-in
+check-out
+update
+work on your code
+synchronize
+mark as merged
+commit
+
+3) True. Because committing helps to see all changes by small parts, and 
+   rollback to previous version if needed  
+4) False
