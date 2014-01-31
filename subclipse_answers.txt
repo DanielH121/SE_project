@@ -15,5 +15,5 @@ mark as merged
 commit
 
 3) True. Because committing helps to see all changes by small parts, and 
-   rollback to previous version if needed  
+   rollback to previous version by small jumps if needed  
 4) False
