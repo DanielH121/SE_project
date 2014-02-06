@@ -1,0 +1,9 @@
+1) Actors: 
+	user who order stuff;
+	administrator who will manage orders and stuff;
+	(optional)courier;
+
+2) Use-cases: 
+	users: can view catalogue, can make orders;
+	administrator: can manage orders, can manage contents of site, can manage couriers;
+	(optional)courier: can view orders which was assigned to him(address and map location,price of order);
