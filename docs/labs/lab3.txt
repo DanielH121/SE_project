@@ -1,0 +1,33 @@
+1-example!
+1) They didn't identify concrete actors and their roles.
+2) There is just 2 actors but the assignment tells us that there must be at least 3.
+3) Not all places are shown in screen flow.(There are 12 screens but in screenflow they showed just 10)
+4) There is no description of screen after 3rd screen.
+2-example!
+1) There are no description of buttons,menus,entry fields or action mechanisms.
+2) There is no description of screens.
+3)
+3-example!
+1) They didn't state developer of screen.
+2) No labels in the transitions in screen.
+3) Multiple pages for screenflow diagram.
+4) In some screens no description of screen.
+5) In some screens not all buttons,menus described.
+4-example!
+1) No actors described.
+2) No actors use-cases.
+3) Doesn't show who made screen.
+4) No buttons, menus described.
+5) No proper description of screen.
+6) NO labels in screenflow.
+5-example!
+1) Just 1 actor, needed at least 3.
+2) No description of screen.
+3) Doesn't show who made screen.
+4) No proper labels of menus and buttons.(They put arrow under buttons which showing 4 buttons and wrote 1,2,3,4 which is very confusing for which button each number correspond)
+5) No labels in screenflow.
+
+Two main benefits:
+It's very useful for customer and develpors to show this types of screens.
+1) Because it's shows us rough version of project and it's navigation.
+2) Shows us actors and their roles.
