@@ -28,6 +28,7 @@
 5) No labels in screenflow.
 
 Two main benefits:
-It's very useful for customer and develpors to show this types of screens.
-1) Because it's shows us rough version of project and it's navigation.
+It's very useful for customer and developers to show this types of screens.
+1) Because it shows us rough version of project and its navigation.
 2) Shows us actors and their roles.
+3) Helps team members to follow same route during development
